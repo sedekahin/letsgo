@@ -18,23 +18,19 @@ Copyright &#169; 2012  <a href="<?php echo home_url() ; ?>"><?php bloginfo('name
     var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
   }(document, 'script'));
 </script>
+
 <!-- Place this code above the closing body tag of the page. Note: An Overlay cannot be placed on top of an auto play or over a video player which is smaller than 320x280  -->
 <script type="text/javascript">
 var adParams = {serverdomain: "ads.adk2.com", a: "11698001",overlayEls: "ytIEmbed,ytIFrame"   };
 </script>
 <script type="text/javascript" src="http://cdn.adk2.com/adstract/scripts/overlay/overlay.js"></script>
-<!-- Place this code above the closing body tag of the page -->
-<script type="text/javascript">
-var adParams = {
-  a: '11698001', numOfTimes: '1',duration: '1',serverdomain: 'ads.adk2.com' ,period: 'Minute' 
-};
-</script>
-<script type="text/javascript" src="http://cdn.adk2.com/adstract/scripts/popunder/popunder.js"></script>
+
 <!-- Place this code above the closing body tag of the page -->
 <script type='text/javascript'>
-var adParams = {a: '11698001', rt:'generic', serverdomain: 'ads.adk2.com', position: 'center:left', scrollanimation: '0', closebutton: 'none', size: '120x600'   };
+var adParams = {a: '11698001', rt:'generic', serverdomain: 'ads.adk2.com', position: 'bottom:left', scrollanimation: '0', closebutton: 'none', size: '160x600'   };
 </script>
 <script type='text/javascript' src='http://cdn.adk2.com/adstract/scripts/slider/slider.js'></script>
+
 
 </body>
 </html>
